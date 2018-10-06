@@ -1,0 +1,10 @@
+C:\Users\vesper\source\repos\GetHashedHwid\GetHashedHwid\bin\Debug\GetHashedHwid.dll
+C:\Users\vesper\source\repos\GetHashedHwid\GetHashedHwid\bin\Debug\GetHashedHwid.pdb
+C:\Users\vesper\source\repos\GetHashedHwid\GetHashedHwid\bin\Debug\GetHashedHwid.xml
+C:\Users\vesper\source\repos\GetHashedHwid\GetHashedHwid\obj\Debug\GetHashedHwid.vbprojAssemblyReference.cache
+C:\Users\vesper\source\repos\GetHashedHwid\GetHashedHwid\obj\Debug\GetHashedHwid.Resources.resources
+C:\Users\vesper\source\repos\GetHashedHwid\GetHashedHwid\obj\Debug\GetHashedHwid.vbproj.GenerateResource.cache
+C:\Users\vesper\source\repos\GetHashedHwid\GetHashedHwid\obj\Debug\GetHashedHwid.vbproj.CoreCompileInputs.cache
+C:\Users\vesper\source\repos\GetHashedHwid\GetHashedHwid\obj\Debug\GetHashedHwid.dll
+C:\Users\vesper\source\repos\GetHashedHwid\GetHashedHwid\obj\Debug\GetHashedHwid.xml
+C:\Users\vesper\source\repos\GetHashedHwid\GetHashedHwid\obj\Debug\GetHashedHwid.pdb
